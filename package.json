@@ -1,8 +1,8 @@
 {
+  "homepage": "https://msashofwan123.github.io/Buku-Kas",
   "name": "laporan-kas",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://msashofwan123.github.io/Buku-Kas",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
